@@ -2,17 +2,17 @@
 "prodotti":[
 {
 "nome":"prodotto1",
-"email":"nome.cognome@gmail.com"
+"email":"nome.cognome@gmail.com",
 "descrizione":"Descrizione del prodotto 1"
 },
 {
-"nome":"prodotto2"
-"email":"nome.cognome@gmail.com"
+"nome":"prodotto2",
+"email":"nome.cognome@gmail.com",
 "descrizione":"Descrizione del prodotto 2"
 },
 {
-"nome":"prodotto3"
-"email":"nome.cognome@gmail.com"
+"nome":"prodotto3",
+"email":"nome.cognome@gmail.com",
 "descrizione":"Descrizione del prodotto 3"
 }
 ]
