@@ -7,12 +7,12 @@
 },
 {
 "nome":"prodotto2"
-"nome.cognome@gmail.com"
+"email":"nome.cognome@gmail.com"
 "descrizione":"Descrizione del prodotto 2"
 },
 {
 "nome":"prodotto3"
-"nome.cognome@gmail.com"
+"email":"nome.cognome@gmail.com"
 "descrizione":"Descrizione del prodotto 3"
 }
 ]
