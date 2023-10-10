@@ -3,19 +3,16 @@
 {
 "nome":"prodotto1",
 "descrizione":"Descrizione del prodotto 1",
-"quantità":1,
 "prezzo":10
 },
 {
 "nome":"prodotto2",
 "descrizione":"Descrizione del prodotto 2",
-"quantità":2,
 "prezzo":20
 },
 {
 "nome":"prodotto3",
 "descrizione":"Descrizione del prodotto 3",
-"quantità":3,
 "prezzo":30
 }
 ]
